@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="event_frame.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="25" topLine="0" />
+	</File>
+	<File name="event_frame.h" open="1" top="0" tabpos="9">
+		<Cursor position="1592" topLine="0" />
+	</File>
+	<File name="gui.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="6821" topLine="104" />
+	</File>
+	<File name="gui.h" open="1" top="0" tabpos="6">
+		<Cursor position="6549" topLine="49" />
+	</File>
+	<File name="icalendar/date.cpp" open="0" top="0" tabpos="15">
+		<Cursor position="2849" topLine="60" />
+	</File>
+	<File name="icalendar/date.h" open="0" top="0" tabpos="10">
+		<Cursor position="2613" topLine="41" />
+	</File>
+	<File name="icalendar/icalendar.cpp" open="1" top="1" tabpos="12">
+		<Cursor position="301" topLine="0" />
+	</File>
+	<File name="icalendar/icalendar.h" open="0" top="0" tabpos="11">
+		<Cursor position="283" topLine="9" />
+	</File>
+	<File name="icalendar/types.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="19" topLine="0" />
+	</File>
+	<File name="icalendar/types.h" open="0" top="0" tabpos="7">
+		<Cursor position="1683" topLine="62" />
+	</File>
+	<File name="icalendar/wxwrapper.h" open="1" top="0" tabpos="4">
+		<Cursor position="305" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="293" topLine="0" />
+	</File>
+	<File name="main.h" open="1" top="0" tabpos="7">
+		<Cursor position="124" topLine="0" />
+	</File>
+	<File name="main_frame.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1484" topLine="51" />
+	</File>
+	<File name="main_frame.h" open="1" top="0" tabpos="2">
+		<Cursor position="214" topLine="55" />
+	</File>
+	<File name="popup_dialog.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="popup_dialog.h" open="1" top="0" tabpos="11">
+		<Cursor position="188" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

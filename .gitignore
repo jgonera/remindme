@@ -1,0 +1,6 @@
+*.bak
+/obj/
+/bin/
+/temp/
+*.ics
+/icalendar/
